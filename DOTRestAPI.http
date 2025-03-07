@@ -1,0 +1,6 @@
+@DOTRestAPI_HostAddress = http://localhost:5032
+
+GET {{DOTRestAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
