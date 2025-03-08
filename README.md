@@ -1,6 +1,4 @@
 # DOTRestAPI
-Untuk PT. Digdaya Olah Teknologi (DOT) Indonesia.
-
 
 Berikut adalah contoh **dokumentasi REST API** untuk **Categories** dan **Products** sesuai dengan kode controller yang telah dimodifikasi (beserta validasi, response sukses, dan penanganan error). Contoh ini berbentuk **teks** yang umum dipakai di README atau dokumentasi internal. Silakan sesuaikan lebih lanjut sesuai kebutuhan (misalnya menambahkan parameter query tertentu, menulis format **Swagger/OpenAPI** formal, dsb.).
 
